@@ -1,0 +1,1 @@
+new Fac().ComputeFac(10)
